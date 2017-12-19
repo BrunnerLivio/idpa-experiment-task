@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/idpa-experiment-task.csproj"
+                "${workspaceFolder}/idpa-experiment-task/idpa-experiment-task.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
