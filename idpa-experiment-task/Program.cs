@@ -6,9 +6,9 @@ namespace idpa_experiment_task
     {
         /// <summary>
         /// Gibt die Zahlen vo 1 bis 100 zurück als string. 
-        /// Allerdings, bei jeder Zahl, die durch 5 teilbar ist, wird "Fizz" ausgegeben und 
-        /// bei jeder Zahl, die durch 7 teilbar ist, wird "Buzz" ausgegeben. 
-        /// Wenn die Zahl sowohl durch 7 als auch durch 5 teilbar ist, wird "FizzBuzz" ausgegeben.
+        /// Allerdings, bei jeder Zahl, die durch 3 teilbar ist, wird "Fizz" ausgegeben und 
+        /// bei jeder Zahl, die durch 5 teilbar ist, wird "Buzz" ausgegeben. 
+        /// Wenn die Zahl sowohl durch 5 als auch durch 3 teilbar ist, wird "FizzBuzz" ausgegeben.
         /// </summary>
         /// <param name="iterations">Die Anzahl Nummern es ausgeben sollte</param>
         /// <example>
@@ -17,21 +17,7 @@ namespace idpa_experiment_task
         /// </example>
         public string GetFizzBuzzString(int iterations)
         {
-            string fizzBuzzString = "";
-            for (int i = 1; i <= iterations; i++)
-            {
-                bool fizz = i % 3 == 0;
-                bool buzz = i % 5 == 0;
-                if (fizz && buzz)
-                    fizzBuzzString += "FizzBuzz ";
-                else if (fizz)
-                    fizzBuzzString += "Fizz ";
-                else if (buzz)
-                    fizzBuzzString += "Buzz ";
-                else
-                    fizzBuzzString += i + " ";
-            }
-            return fizzBuzzString;
+            return "";
         }
     }
 

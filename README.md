@@ -2,7 +2,7 @@
 
 ## Aufgabe
 
-Schreiben Sie ein Programm, das die Zahlen von 1 bis 100 ausgibt. Bei jeder Zahl, die durch 5 teilbar ist, soll "Fizz" ausgegeben werden und bei jeder Zahl, die durch 7 teilbar ist, soll "Buzz" ausgegeben werden. Wenn die Zahl sowohl durch 7 als auch durch 5 teilbar ist, soll "FizzBuzz" ausgegeben werden.
+Schreiben Sie ein Programm, das die Zahlen von 1 bis 100 ausgibt. Bei jeder Zahl, die durch 3 teilbar ist, soll "Fizz" ausgegeben werden und bei jeder Zahl, die durch 5 teilbar ist, soll "Buzz" ausgegeben werden. Wenn die Zahl sowohl durch 5 als auch durch 3 teilbar ist, soll "FizzBuzz" ausgegeben werden.
 
 ### Beispielausgabe
 
