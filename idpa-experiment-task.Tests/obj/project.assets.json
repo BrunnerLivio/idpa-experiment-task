@@ -5634,23 +5634,23 @@
     ]
   },
   "packageFolders": {
-    "/home/users/brunnel6/.nuget/packages/": {},
+    "/home/candidate/.nuget/packages/": {},
     "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/users/brunnel6/workspace/idpa-experiment-task/idpa-experiment-task.Tests/idpa-experiment-task.Tests.csproj",
+      "projectUniqueName": "/home/candidate/gruppe-1/idpa-experiment-task.Tests/idpa-experiment-task.Tests.csproj",
       "projectName": "idpa-experiment-task.Tests",
-      "projectPath": "/home/users/brunnel6/workspace/idpa-experiment-task/idpa-experiment-task.Tests/idpa-experiment-task.Tests.csproj",
-      "packagesPath": "/home/users/brunnel6/.nuget/packages/",
-      "outputPath": "/home/users/brunnel6/workspace/idpa-experiment-task/idpa-experiment-task.Tests/obj/",
+      "projectPath": "/home/candidate/gruppe-1/idpa-experiment-task.Tests/idpa-experiment-task.Tests.csproj",
+      "packagesPath": "/home/candidate/.nuget/packages/",
+      "outputPath": "/home/candidate/gruppe-1/idpa-experiment-task.Tests/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/users/brunnel6/.nuget/NuGet/NuGet.Config"
+        "/home/candidate/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -5661,8 +5661,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "/home/users/brunnel6/workspace/idpa-experiment-task/idpa-experiment-task/idpa-experiment-task.csproj": {
-              "projectPath": "/home/users/brunnel6/workspace/idpa-experiment-task/idpa-experiment-task/idpa-experiment-task.csproj"
+            "/home/candidate/gruppe-1/idpa-experiment-task/idpa-experiment-task.csproj": {
+              "projectPath": "/home/candidate/gruppe-1/idpa-experiment-task/idpa-experiment-task.csproj"
             }
           }
         }

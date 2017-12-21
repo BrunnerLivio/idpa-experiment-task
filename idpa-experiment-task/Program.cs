@@ -26,7 +26,7 @@ namespace idpa_experiment_task
         static void Main(string[] args)
         {
             FizzBuzz fizz = new FizzBuzz();
-            Console.WriteLine(fizz.GetFizzBuzzString(231));
+            Console.WriteLine(fizz.GetFizzBuzzString(100));
         }
     }
 }
